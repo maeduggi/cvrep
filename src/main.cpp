@@ -1,12 +1,12 @@
+// abstract base class
 #include <iostream>
+
+#include "ImageReader.h"
+#include "OpenCVImageReader.h"
 
 using namespace std;
 
-
-int main(int argc, char** argv)
-{
-	cout << "Hello World";
-
-	getchar();
+int main() {
+	
 	return 0;
 }

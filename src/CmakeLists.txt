@@ -1,2 +1,2 @@
-ADD_EXECUTABLE(mycv main.cpp )
+ADD_EXECUTABLE(mycv main.cpp ImageReader.cpp OpenCVImageReader.cpp)
 
